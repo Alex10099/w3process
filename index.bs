@@ -1265,15 +1265,20 @@ Technical Architecture Group Appointments</h5>
 	relevant information in support of the candidate.
 	These nominations are confidential to the [=TAG Appointment Committee=].
 
-	The constrains for appointment to the [=TAG=] are
-	the same as for elected participants
-	(see [[#AB-TAG-constraints]] and [[#AB-TAG-elections]]),
-	except that participants of the [=TAG Appointment Committee=]
-	are not eligible.
-
 	The [=TAG Appointment Committee=] appoints by [=consensus=]
 	the number of individuals necessary to fill the number of vacant seats,
 	from the eligible nominees.
+	The constraints for appointment to the [=TAG=] are
+	the same as for elected participants
+	(see [[#AB-TAG-constraints]] and [[#AB-TAG-elections]]),
+	except that participants of the [=TAG Appointment Committee=]
+	cannot appoint themselves.
+	If consensus cannot be reached before the deadline,
+	the Chair <em class=rfc2119>should</em> call for a vote.
+	The voting method is at the Chair's discretion,
+	but <em class=rfc2119>must</em> ensure that
+	all participants in the [=TAG Appointment Committee=] are given an equal say,
+	and that all eligible nominees are considered.
 
 	For regularly scheduled elections,
 	the [=TAG Appointment Committee=] must announce its conclusions
@@ -1282,12 +1287,6 @@ Technical Architecture Group Appointments</h5>
 	When formed to fill vacated seats outside of a regularly scheduled election,
 	it must announce its conclusions
 	no later than the Call for Nominations of the next scheduled election.
-	If consensus cannot be reached before this deadline,
-	the Chair <em class=rfc2119>should</em> call for a vote.
-	The voting method is at the Chair's discretion,
-	but <em class=rfc2119>must</em> ensure that
-	all participants in the [=TAG Appointment Committee=] are given an equal say,
-	and that all eligible nominees are considered.
 
 	To ensure that seats on the TAG do not stay vacant,
 	if the [=TAG Appointment Committee=] fails to decide on the required number of appointees
