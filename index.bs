@@ -1230,12 +1230,14 @@ Technical Architecture Group Appointments</h5>
 	selected in order:
 	<ol>
 		<li>
-			1 member of the [=Team=], chosen by the CEO
+			1 member of the [=Team=], chosen by the CEO, as [=Team Contact=].
+			The [=Team Contact=] is non-voting,
+			except that they can break ties.
 		<li>
-			2 participants of the current TAG,
+			3 participants of the current TAG,
 			<a href="#random">randomly selected</a> from those who are not running for election
 		<li>
-			4 [=Chairs=] of [=Working Groups=],
+			7 [=Chairs=] of [=Working Groups=],
 			<a href="#random">randomly selected</a> from individuals who are or have been [=Chair=] of a [=Working Group=]
 			for at least 6 of the preceeding 12 months,
 			excluding individuals running in the election,
@@ -1292,6 +1294,7 @@ Technical Architecture Group Appointments</h5>
 	if the [=TAG Appointment Committee=] fails to decide on the required number of appointees
 	before the deadline,
 	the [=Team=] appoints the missing number.
+	Seats thus appointed by the [=Team=] are vacated at the next regularly scheduled election.
 
 <h5 id="random">
 Verifiable Random Selection Procedure</h5>
