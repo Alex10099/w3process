@@ -1041,7 +1041,7 @@ Participation in Elected Groups</h4>
 Expectations for Elected Groups Participants</h5>
 
 	[=Advisory Board=] and [=TAG=] participants have a special role within W3C:
-	they are elected by the Membership and appointed
+	they are elected by the Membership and appointed by the [=Team=]
 	with the expectation that they will use their best judgment
 	to find the best solutions for the Web,
 	not just for any particular network,
