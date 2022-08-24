@@ -1249,7 +1249,7 @@ Technical Architecture Group Appointments</h5>
 	selection begins once the results of the elections are known,
 	and the [=Team=] <em class=rfc2119>should</em> announce the ratified appointment(s)
 	no later than the start of the regularly scheduled term.
-	When an appointed seat is vacated out of a regularly scheduled election,
+	When an appointed seat is vacated outside of a regularly scheduled election,
 	the [=Team=] <em class=rfc2119>should</em> seek to appoint a replacement
 	unless a regular Call for Nominations is scheduled within 2 months,
 	and it <em class=rfc2119>must</em> announce the ratified appointment
