@@ -2242,7 +2242,7 @@ Reopening a Decision When Presented With New Information</h3>
 	Procedures for <a href="#ACAppeal">Advisory Committee appeals</a> are described separately.
 
 <h3 id="WGArchiveMinorityViews">
-Recording and Reporting Formal Objections</h3>
+Registering Formal Objections</h3>
 
 	In the W3C process,
 	an individual <em class="rfc2119">may</em> register a Formal Objection to a decision.
