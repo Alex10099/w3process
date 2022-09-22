@@ -2224,7 +2224,7 @@ Reopening a Decision When Presented With New Information</h3>
 	The participants <em class="rfc2119">should</em> also make their requests known
 	to the <a href="#TeamContact">Team Contact</a>.
 	The Team Contact <em class="rfc2119">must</em> inform the [=CEO=]
-	when a group participant has raised concerns about due process.
+	when a group participant has also raised concerns about due process.
 
 	Any requests to confirm a decision
 	<em class="rfc2119">must</em> include a summary of
